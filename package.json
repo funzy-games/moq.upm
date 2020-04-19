@@ -1,14 +1,12 @@
 {
 	"name": "com.adrenak.moq.upm",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"displayName": "Moq UPM",
 	"description": "Moq framework for Unity made into a UPM package.",
 	"unity": "2018.4",
 	"author": {
 		"name": "Moq contributors. UPM compiled by Vatsal Ambastha (adrenak)"
 	},
-	"dependencies": {
-	},
-	"scopedRegistries": [
-	]
+	"dependencies": {},
+	"scopedRegistries": []
 }
