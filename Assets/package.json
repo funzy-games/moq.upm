@@ -1,0 +1,11 @@
+{
+	"name": "funzygames.moq",
+	"version": "1.0.3",
+	"displayName": "Moq",
+	"unity": "2020.3",
+	"author": {
+		"name": "FunzyGames"
+	},
+	"dependencies": {},
+	"scopedRegistries": []
+}
